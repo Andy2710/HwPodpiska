@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Podpiska</string>
+    <string name="send">SEND</string>
+    <string name="username">USERNAME</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="Подписка">Подписка</string>
+    <string name="podpiska">Подписка оформлена</string>
+</resources>

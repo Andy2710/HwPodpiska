@@ -1,0 +1,2 @@
+rootProject.name='Podpiska'
+include ':app'
